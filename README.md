@@ -2,7 +2,7 @@ Coding by Phuluan
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8">    
     <title>Sky Master - CEO Edition</title>
     <style>
         body { margin: 0; overflow: hidden; background: #4facfe; font-family: 'Segoe UI', Arial, sans-serif; }
